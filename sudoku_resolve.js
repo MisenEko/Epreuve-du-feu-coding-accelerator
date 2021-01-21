@@ -1,4 +1,4 @@
-//il n'y pas 36 façon pour résoudre un tableau. 
+//il n'y pas 36 façon pour résoudre un sudoku
 //J'avais déjà fait cet exercice il y a longtemps et après comparaison avec mon ancien fichier, j'ai pas trop changé ma façon de penser.
 
 let grid = [
